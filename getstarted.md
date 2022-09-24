@@ -48,18 +48,18 @@ Note that this was the easy way to *create* your website, but it does come at a 
 }
 
 
-.gs-section-02 h2 { 
+.gs-section-02 h3 { 
      color: #BBFA00 }
 
-.gs-section-02 h2 {
+.gs-section-02 h3 {
      font-size: 20px;
 }  
 
      
-.gs-section-03 h1 { 
+.gs-section-03 h3 { 
      color: #003EFA }
 
-.gs-section-03 h1 {
+.gs-section-03 h3 {
      font-size: 10px;
 }      
 
