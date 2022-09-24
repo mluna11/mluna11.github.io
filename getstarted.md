@@ -36,7 +36,6 @@ After you save your changes to the `_config.yml` file (by clicking on *Commit ch
 
 Note that this was the easy way to *create* your website, but it does come at a cost: when Beautiful Jekyll gains new features in the future, *updating* your website to include all the latest features is cumbersome. See the [FAQ](https://beautifuljekyll.com/faq/#updating) for help with upgrading in the future.
 
-</div>
 
 <style>
 
@@ -69,7 +68,7 @@ Note that this was the easy way to *create* your website, but it does come at a 
      font-family: Brush Script MT, Brush Script Std, cursive }      
 
 .gs-section-03 h3 {
-     font-size: 25px;
+     font-size: 45px;
 }      
 
 </style>
